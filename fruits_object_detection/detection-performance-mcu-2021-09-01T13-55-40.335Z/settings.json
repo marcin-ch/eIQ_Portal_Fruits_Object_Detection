@@ -1,0 +1,1 @@
+{"task": "detection", "tune": "ssd_mobilenet_v3", "device": "mcu"}
